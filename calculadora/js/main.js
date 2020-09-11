@@ -1,1 +1,1 @@
-window.alert("Alo Ha Mundo!")
+//window.alert('Alo Ha');
